@@ -1,7 +1,5 @@
 # Fancy Font Generator
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2b9d2e3b-ff4c-4e2d-9b55-6c6e5e6c6e6e/deploy-status)](https://app.netlify.com/sites/fancy-font-generator/deploys)
-
 A simple, modern, and open-source website to convert your text into a huge variety of fancy Unicode and emoji font styles instantly.
 
 ## ✨ Features
@@ -21,7 +19,7 @@ Try it live: [Fancy Font Generator (Netlify)](https://fancy-font-generator.netli
 3. Instantly see your text in dozens of styles.
 4. Click "Copy" next to any style to copy it to your clipboard.
 
-![Demo screenshot](demo.png)
+<img width="428" alt="image" src="https://github.com/user-attachments/assets/37ff7482-c852-41bf-8ed4-188eed5e1bfe" />
 
 ## 🛠️ Local Development
 ```bash
