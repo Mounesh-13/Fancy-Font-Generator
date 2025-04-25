@@ -1,0 +1,27 @@
+# Ignore Python server artifacts
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore deployment configs
+windsurf_deployment.yaml
+
+# Node/Netlify/Vercel
+node_modules/
+.netlify/
+.vercel/
+
+# Ignore build outputs
+build/
+dist/
+
+# Ignore logs
+*.log
+
+# Ignore personal files
+*.swp
+*.swo
+*.bak
