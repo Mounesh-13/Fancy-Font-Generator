@@ -10,8 +10,7 @@ A simple, modern, and open-source website to convert your text into a huge varie
 - No downloads or menus—just type, see, and copy!
 - Open source and privacy-friendly (all in-browser)
 
-## 🚀 Demo
-Try it live: [Fancy Font Generator (Netlify)](https://fancy-font-generator.netlify.app/)
+
 
 ## 🖥️ Usage
 1. Open `index.html` in your browser, **or** visit the deployed site.
